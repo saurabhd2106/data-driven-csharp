@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SAURABH\\workspace-csharp\\Data-Driven-Framework\\Guru99Test\\Guru99Test.csproj": {}
+    "c:\\Users\\SAURABH\\workspace-csharp\\Data-Driven-Framework\\Guru99Test\\Guru99Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SAURABH\\workspace-csharp\\Data-Driven-Framework\\Guru99Test\\Guru99Test.csproj": {
+    "c:\\Users\\SAURABH\\workspace-csharp\\Data-Driven-Framework\\Guru99Test\\Guru99Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SAURABH\\workspace-csharp\\Data-Driven-Framework\\Guru99Test\\Guru99Test.csproj",
+        "projectUniqueName": "c:\\Users\\SAURABH\\workspace-csharp\\Data-Driven-Framework\\Guru99Test\\Guru99Test.csproj",
         "projectName": "Guru99Test",
-        "projectPath": "C:\\Users\\SAURABH\\workspace-csharp\\Data-Driven-Framework\\Guru99Test\\Guru99Test.csproj",
+        "projectPath": "c:\\Users\\SAURABH\\workspace-csharp\\Data-Driven-Framework\\Guru99Test\\Guru99Test.csproj",
         "packagesPath": "C:\\Users\\SAURABH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SAURABH\\workspace-csharp\\Data-Driven-Framework\\Guru99Test\\obj\\",
+        "outputPath": "c:\\Users\\SAURABH\\workspace-csharp\\Data-Driven-Framework\\Guru99Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SAURABH\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,6 +47,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.4.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.21, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
