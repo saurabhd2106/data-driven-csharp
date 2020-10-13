@@ -20,5 +20,11 @@ namespace Guru99Test
         {
             Assert.Pass();
         }
+
+         [Test]
+        public void Test3()
+        {
+            Assert.Pass();
+        }
     }
 }
