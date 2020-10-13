@@ -21,8 +21,13 @@ namespace Guru99Test
             Assert.Pass();
         }
 
+<<<<<<< HEAD
          [Test]
         public void Test3()
+=======
+        [Test]
+        public void Test4()
+>>>>>>> 6f9983f... added test case 4
         {
             Assert.Pass();
         }
